@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from "react";
 import { cn } from "@/lib/utils";
 import { Zap, Shield, Wind, Monitor, Layers, Cog } from "lucide-react";
@@ -11,19 +10,19 @@ const TechnicalFeatures = () => {
     title: "AUDI 2.5 LITRE FIVE-CYLINDER TFSI",
     description: "At the heart of the machine is the legendary 2.5 litre, five-cylinder engine manufactured by Audi AG",
     details: ["Lighter, more compact, more powerful and more efficient than comparable engines", "Enormous amounts of torque available at low revs with characteristic tone", "Perfect match with the KTM X-BOW GT-XR's radical philosophy", "Crowned 'engine of the year' on nine separate occasions", "World's most powerful production five-cylinder engine", "Latest in a long line of successful Audi engines that have shone on racetracks"],
-    image: "/lovable-uploads/929701f8-cbd0-4d97-b84b-bae57c23462f.png"
+    image: "/ktm-xbow-images/929701f8-cbd0-4d97-b84b-bae57c23462f.png"
   }, {
     icon: <Layers className="w-8 h-8" />,
     title: "Carbon Bodywork",
     description: "Lightweight construction with limitless customization possibilities",
     details: ["High-density carbon fiber reduces weight while boosting rigidity", "Available in matte or glossy carbon finishes", "Near-infinite custom paint combinations", "Clear-coated carbon finish options"],
-    image: "/lovable-uploads/c8d7cea5-3e7d-4de4-ad45-aea310cbf566.png"
+    image: "/ktm-xbow-images/c8d7cea5-3e7d-4de4-ad45-aea310cbf566.png"
   }, {
     icon: <Wind className="w-8 h-8" />,
     title: "Advanced Aerodynamics",
     description: "Race-proven aerodynamic principles for maximum performance",
     details: ["Carbon rear wing ensures grip and stability at speed", "Optimized suspension geometry sharpens handling", "Underbody ground effect design increases downforce", "AirCurtain system for enhanced ground-sealing grip"],
-    image: "/lovable-uploads/da6bff58-9ea2-4d41-888d-8a6650b4a7f4.png"
+    image: "/ktm-xbow-images/da6bff58-9ea2-4d41-888d-8a6650b4a7f4.png"
   }];
 
   useEffect(() => {
@@ -128,7 +127,7 @@ const TechnicalFeatures = () => {
         <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 opacity-0 fade-in-element">
           <div className="relative rounded-2xl overflow-hidden shadow-xl group hover:shadow-2xl transition-all duration-500 cursor-pointer">
             <img 
-              src="/lovable-uploads/b5ccb088-c3b8-400c-aa69-8be542f95bec.png" 
+              src="/ktm-xbow-images/b5ccb088-c3b8-400c-aa69-8be542f95bec.png" 
               alt="KTM X-BOW GT-XR in Motion" 
               className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" 
             />
@@ -142,7 +141,7 @@ const TechnicalFeatures = () => {
           
           <div className="relative rounded-2xl overflow-hidden shadow-xl group hover:shadow-2xl transition-all duration-500 cursor-pointer">
             <img 
-              src="/lovable-uploads/4bf7ffda-90cc-4230-ae32-6bf7b5a4b14f.png" 
+              src="/ktm-xbow-images/4bf7ffda-90cc-4230-ae32-6bf7b5a4b14f.png" 
               alt="KTM X-BOW GT-XR Street Legal" 
               className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" 
             />
@@ -156,7 +155,7 @@ const TechnicalFeatures = () => {
           
           <div className="relative rounded-2xl overflow-hidden shadow-xl group hover:shadow-2xl transition-all duration-500 cursor-pointer md:col-span-2 lg:col-span-1">
             <img 
-              src="/lovable-uploads/a25ccc78-155c-4f8a-9073-eaa221984b83.png" 
+              src="/ktm-xbow-images/a25ccc78-155c-4f8a-9073-eaa221984b83.png" 
               alt="KTM X-BOW GT-XR Mountain Road" 
               className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" 
             />

@@ -4,7 +4,7 @@ Created by [Abhishek Yadav](https://www.instagram.com/iamyaduvanshi) 🚀
 
 A modern, interactive web showcase for the KTM X-BOW GT-XR, featuring stunning visuals, detailed specifications, and an immersive user experience.
 
-![KTM X-BOW GT-XR](public/lovable-uploads/1eb07e4d-a177-4004-a611-4f9a2063be48.png)
+![KTM X-BOW GT-XR](public/ktm-xbow-images/1eb07e4d-a177-4004-a611-4f9a2063be48.png)
 
 ## Features
 

@@ -184,10 +184,9 @@ const Hero = () => {
             <div className="relative transition-all duration-500 ease-out overflow-hidden rounded-3xl shadow-2xl border border-white/20">
               <img 
                 ref={imageRef} 
-                src="/lovable-uploads/0dab5121-4256-419b-8b0f-75bb84781b15.png" 
-                alt="KTM X-BOW GT-XR" 
-                className="w-full h-auto object-cover transition-transform duration-500 ease-out" 
-                style={{ transformStyle: 'preserve-3d' }} 
+                src="/ktm-xbow-images/0dab5121-4256-419b-8b0f-75bb84781b15.png" 
+                alt="KTM X-BOW GT-XR Hero" 
+                className="w-full h-full object-cover" 
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
             </div>

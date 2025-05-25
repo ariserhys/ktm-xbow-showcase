@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const ImageShowcaseSection = () => {
@@ -19,7 +18,7 @@ const ImageShowcaseSection = () => {
         <div className="rounded-2xl sm:rounded-3xl overflow-hidden shadow-elegant mx-auto max-w-4xl animate-on-scroll mb-8">
           <div className="w-full">
             <img 
-              src="/lovable-uploads/1eb07e4d-a177-4004-a611-4f9a2063be48.png" 
+              src="/ktm-xbow-images/1eb07e4d-a177-4004-a611-4f9a2063be48.png" 
               alt="KTM X-BOW GT-XR in motion on the track" 
               className="w-full h-auto object-cover"
             />
@@ -38,7 +37,7 @@ const ImageShowcaseSection = () => {
           {/* Orange X-BOW in landscape */}
           <div className="rounded-2xl overflow-hidden shadow-elegant animate-on-scroll">
             <img 
-              src="/lovable-uploads/14ccd954-7f54-4f37-96fd-324f7b2cbce1.png" 
+              src="/ktm-xbow-images/14ccd954-7f54-4f37-96fd-324f7b2cbce1.png" 
               alt="KTM X-BOW GT-XR orange variant in scenic landscape" 
               className="w-full h-64 sm:h-80 object-cover"
             />
@@ -53,7 +52,7 @@ const ImageShowcaseSection = () => {
           {/* White X-BOW side profile */}
           <div className="rounded-2xl overflow-hidden shadow-elegant animate-on-scroll">
             <img 
-              src="/lovable-uploads/f87df99a-1e6f-45af-bb01-7212b7e2421b.png" 
+              src="/ktm-xbow-images/f87df99a-1e6f-45af-bb01-7212b7e2421b.png" 
               alt="KTM X-BOW GT-XR white variant side profile" 
               className="w-full h-64 sm:h-80 object-cover"
             />
@@ -68,7 +67,7 @@ const ImageShowcaseSection = () => {
           {/* Engine bay detail */}
           <div className="rounded-2xl overflow-hidden shadow-elegant animate-on-scroll">
             <img 
-              src="/lovable-uploads/79f603c0-d7e0-497f-b3ce-4e4616a1cf5c.png" 
+              src="/ktm-xbow-images/79f603c0-d7e0-497f-b3ce-4e4616a1cf5c.png" 
               alt="KTM X-BOW GT-XR engine bay with carbon fiber details" 
               className="w-full h-64 sm:h-80 object-cover"
             />
@@ -83,7 +82,7 @@ const ImageShowcaseSection = () => {
           {/* Wheel and brake detail */}
           <div className="rounded-2xl overflow-hidden shadow-elegant animate-on-scroll">
             <img 
-              src="/lovable-uploads/e7b93243-0fe7-434d-bb2e-9c8a04a51bf1.png" 
+              src="/ktm-xbow-images/e7b93243-0fe7-434d-bb2e-9c8a04a51bf1.png" 
               alt="KTM X-BOW GT-XR wheel with orange brake caliper detail" 
               className="w-full h-64 sm:h-80 object-cover"
             />

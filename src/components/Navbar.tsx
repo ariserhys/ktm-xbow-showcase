@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { Menu, X } from "lucide-react";
@@ -55,9 +54,9 @@ const Navbar = () => {
           aria-label="KTM X-BOW"
         >
           <img 
-            src="/lovable-uploads/f2db3795-393e-4b85-9ead-19f68566489a.png" 
-            alt="KTM Logo" 
-            className="h-7 sm:h-8" 
+            src="/ktm-xbow-images/f2db3795-393e-4b85-9ead-19f68566489a.png" 
+            alt="KTM X-BOW Logo" 
+            className="h-8 w-auto" 
           />
           <span className="text-xl sm:text-2xl font-bold text-gray-900 font-display">
             KTM X-BOW

@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef, useState } from "react";
 import { cn } from "@/lib/utils";
 import {
@@ -17,37 +16,37 @@ const ImageShowcase = () => {
 
   const showcaseImages = [
     {
-      src: "/lovable-uploads/e230e96c-4bca-48c4-b4a1-1d949eea67c3.png",
+      src: "/ktm-xbow-images/e230e96c-4bca-48c4-b4a1-1d949eea67c3.png",
       title: "GT Race Performance",
       description: "Pure race car performance in a street-legal package",
       category: "Performance"
     },
     {
-      src: "/lovable-uploads/c9c390d2-5e7b-4d5d-baaf-318db739b3c5.png",
+      src: "/ktm-xbow-images/c9c390d2-5e7b-4d5d-baaf-318db739b3c5.png",
       title: "Racing Design Details",
       description: "Every element focused on functionality and performance",
       category: "Design"
     },
     {
-      src: "/lovable-uploads/929701f8-cbd0-4d97-b84b-bae57c23462f.png",
+      src: "/ktm-xbow-images/929701f8-cbd0-4d97-b84b-bae57c23462f.png",
       title: "Engine Technology",
       description: "Turbocharged five-cylinder engine with race-grade components",
       category: "Technology"
     },
     {
-      src: "/lovable-uploads/da6bff58-9ea2-4d41-888d-8a6650b4a7f4.png",
+      src: "/ktm-xbow-images/da6bff58-9ea2-4d41-888d-8a6650b4a7f4.png",
       title: "Aerodynamic Excellence",
       description: "Race-optimized aerodynamics for maximum downforce",
       category: "Aerodynamics"
     },
     {
-      src: "/lovable-uploads/c8d7cea5-3e7d-4de4-ad45-aea310cbf566.png",
+      src: "/ktm-xbow-images/c8d7cea5-3e7d-4de4-ad45-aea310cbf566.png",
       title: "Carbon Fiber Bodywork",
       description: "Lightweight construction with limitless customization",
       category: "Carbon"
     },
     {
-      src: "/lovable-uploads/b1b1ff66-de10-4bbe-ac0a-286cd22a0df4.png",
+      src: "/ktm-xbow-images/b1b1ff66-de10-4bbe-ac0a-286cd22a0df4.png",
       title: "Track Performance",
       description: "Built to thrill on both track and street",
       category: "Performance"
@@ -204,7 +203,7 @@ const ImageShowcase = () => {
           <div className="relative opacity-0 fade-in-element">
             <div className="rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="/lovable-uploads/00e2f72e-3d0e-4c2b-b8e9-a63d65ff9b7c.png"
+                src="/ktm-xbow-images/00e2f72e-3d0e-4c2b-b8e9-a63d65ff9b7c.png"
                 alt="KTM X-BOW GT-XR Track Performance"
                 className="w-full h-[500px] object-cover"
               />
@@ -254,9 +253,9 @@ const ImageShowcase = () => {
             </div>
             <div className="relative">
               <img
-                src="/lovable-uploads/1bf56bb1-7374-46af-8bf1-8ed791bd9cbd.png"
-                alt="KTM Manufacturing Facility"
-                className="rounded-2xl shadow-2xl"
+                src="/ktm-xbow-images/1bf56bb1-7374-46af-8bf1-8ed791bd9cbd.png"
+                alt="KTM X-BOW GT-XR Manufacturing"
+                className="w-full h-[500px] object-cover"
               />
             </div>
           </div>

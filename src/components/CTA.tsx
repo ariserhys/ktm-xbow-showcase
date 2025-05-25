@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from "react";
 import { ArrowRight } from "lucide-react";
 
@@ -36,9 +35,9 @@ const CTA = () => {
         <div className="max-w-6xl mx-auto mb-12">
           <div className="rounded-2xl sm:rounded-3xl overflow-hidden shadow-2xl">
             <img 
-              src="/lovable-uploads/14ccd954-7f54-4f37-96fd-324f7b2cbce1.png" 
-              alt="KTM X-BOW GT-XR orange racing through scenic landscape" 
-              className="w-full h-64 sm:h-96 object-cover"
+              src="/ktm-xbow-images/14ccd954-7f54-4f37-96fd-324f7b2cbce1.png" 
+              alt="KTM X-BOW GT-XR CTA" 
+              className="w-full h-full object-cover"
             />
           </div>
         </div>
