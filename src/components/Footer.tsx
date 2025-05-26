@@ -8,7 +8,7 @@ const Footer = () => {
         <p className="text-center text-gray-600 text-sm">
           KTM X-BOW GT-XR showcase website created by{" "}
           <a 
-            href="https://devabhishekyadav.netlify.app/" 
+            href="https://thedevabhishekyadav.vercel.app/" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="text-pulse-500 hover:underline font-medium"
