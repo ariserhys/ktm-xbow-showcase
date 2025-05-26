@@ -133,4 +133,4 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## Images courtesy of KTM X-BOW. All rights reserved.
+All image rights are reserved by KTM X-BOW.
